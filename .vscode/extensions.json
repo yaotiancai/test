@@ -1,14 +1,23 @@
 {
   "recommendations": [
-    "vue.volar",
     "dbaeumer.vscode-eslint",
-    "stylelint.vscode-stylelint",
     "esbenp.prettier-vscode",
-    "mrmlnc.vscode-less",
-    "lokalise.i18n-ally",
-    "antfu.iconify",
-    "mikestead.dotenv",
-    "heybourn.headwind",
-    "donjayamanne.githistory"
+    "eamodio.gitlens",
+    "donjayamanne.githistory",
+    "formulahendry.auto-close-tag",
+    "formulahendry.auto-complete-tag",
+    "formulahendry.auto-rename-tag",
+    "vincaslt.highlight-matching-tag",
+    "visualstudioexptteam.vscodeintellicode",
+    "gruntfuggly.todo-tree",
+    "wayou.vscode-todo-highlight",
+    "shardulm94.trailing-spaces",
+    "christian-kohler.path-intellisense",
+    "ms-ceintl.vscode-language-pack-zh-hans",
+    "editorconfig.editorconfig",
+    "streetsidesoftware.code-spell-checker",
+    "kisstkondoros.vscode-gutter-preview",
+    "octref.vetur",
+    "vue.vscode-typescript-vue-plugin"
   ]
 }
